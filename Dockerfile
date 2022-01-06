@@ -1,0 +1,51 @@
+# Tags: latest, master-228750c5774cfbe7d395e10e2c84665d9122496d
+FROM mozilla/treeherder:latest
+FROM mozilla/treeherder:master-228750c5774cfbe7d395e10e2c84665d9122496d
+
+# Tags: master-56a5322f9d248ced118335908286d23da4fa3d6a
+FROM mozilla/treeherder:master-56a5322f9d248ced118335908286d23da4fa3d6a
+
+# Tags: master-095719b51f3ace0d3372c4b4444a37dc8e83ca68
+FROM mozilla/treeherder:master-095719b51f3ace0d3372c4b4444a37dc8e83ca68
+
+# Tags: master-07417b234c451c28fc6ce9b5b2eb00f7ed678962
+FROM mozilla/treeherder:master-07417b234c451c28fc6ce9b5b2eb00f7ed678962
+
+# Tags: prototype
+FROM mozilla/treeherder:prototype
+
+# Tags: master-cd5212688ec38a8bf9a73720475637344af60a96
+FROM mozilla/treeherder:master-cd5212688ec38a8bf9a73720475637344af60a96
+
+# Tags: master-712aa9c1a6bb8cd17980c38a90b9816631844144
+FROM mozilla/treeherder:master-712aa9c1a6bb8cd17980c38a90b9816631844144
+
+# Tags: master-f4b13871854b1c52fbd6b5859890dae962fc71fe
+FROM mozilla/treeherder:master-f4b13871854b1c52fbd6b5859890dae962fc71fe
+
+# Tags: master-f007685731c51dfab0c4f30c23cbbca6e6e8b1dd
+FROM mozilla/treeherder:master-f007685731c51dfab0c4f30c23cbbca6e6e8b1dd
+
+# Tags: master-f8d0556fe3fc00764e7e7ef5d60e6684cd5b794f
+FROM mozilla/treeherder:master-f8d0556fe3fc00764e7e7ef5d60e6684cd5b794f
+
+# Tags: master-4f67f92b550fdedecfd62617a2abbc925576e48a
+FROM mozilla/treeherder:master-4f67f92b550fdedecfd62617a2abbc925576e48a
+
+# Tags: master-dba583ea48d16f34a888135b2af497dbc08a9f2d
+FROM mozilla/treeherder:master-dba583ea48d16f34a888135b2af497dbc08a9f2d
+
+# Tags: master-afb477809c13ff9fa3cc8756547067b818487676
+FROM mozilla/treeherder:master-afb477809c13ff9fa3cc8756547067b818487676
+
+# Tags: master-826877ce3e8d9b6e5caca49093a09356f9ff6c48
+FROM mozilla/treeherder:master-826877ce3e8d9b6e5caca49093a09356f9ff6c48
+
+# Tags: master-024af33cbd13010f04ba1222a7adc8b780896412
+FROM mozilla/treeherder:master-024af33cbd13010f04ba1222a7adc8b780896412
+
+# Tags: master-242af51115bc7ad685e92de4be835f59e838c1ec
+FROM mozilla/treeherder:master-242af51115bc7ad685e92de4be835f59e838c1ec
+
+# Tags: master-8c80d16ba02f2dc08ffe5ccd3997cb5cee317921
+FROM mozilla/treeherder:master-8c80d16ba02f2dc08ffe5ccd3997cb5cee317921
